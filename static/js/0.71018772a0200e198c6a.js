@@ -1,0 +1,2 @@
+webpackJsonp([0],{"SVn+":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("购物车")])},staticRenderFns:[]};var u=t("VU/8")({name:"gouwuche"},r,!1,function(e){t("UBK6")},null,null);n.default=u.exports},UBK6:function(e,n){}});
+//# sourceMappingURL=0.71018772a0200e198c6a.js.map
