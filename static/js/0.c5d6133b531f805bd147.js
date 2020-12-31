@@ -1,0 +1,2 @@
+webpackJsonp([0],{K8DX:function(e,t){},"SVn+":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("p",[this._v("这是购物车")])])}]};var i=n("VU/8")({name:"gouwuche"},r,!1,function(e){n("K8DX")},null,null);t.default=i.exports}});
+//# sourceMappingURL=0.c5d6133b531f805bd147.js.map
